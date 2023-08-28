@@ -2,7 +2,7 @@
 
 Welcome to my space! Let me introduce myself: 
 
-I am Guilherme Novelli, an aspiring Data Scientist. Previously graduated as a mechanical engineer, with a strong background in research, I am now enrolled in a graduate specialization in Data Science and Big Data. My journey from fluid mechanics to Python scripts has been quite a ride. I've got a thing for turning numbers into stories and making complex problems crumble with the power of programming.
+I am Guilherme Novelli, an aspiring Data Scientist. Formerly graduated as a mechanical engineer, with a strong background in research, I am now enrolled in a graduate specialization in Data Science and Big Data. My journey from fluid mechanics to Python scripts has been quite a ride. I've got a thing for turning numbers into stories and making complex problems crumble with the power of programming.
 
 My main interests are Python, Machine Learning and Deep Learning. I am always on the quest for knowledge.
 
