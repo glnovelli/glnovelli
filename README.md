@@ -4,11 +4,10 @@ Welcome to my space! Let me introduce myself:
 
 I am Guilherme Novelli, a Data Analyst at CloudWalk, Inc. Formerly graduated as a mechanical engineer, with a strong background in research, I am now enrolled in a graduate specialization in Data Science and Big Data. My journey from fluid mechanics to Python scripts has been quite a ride. I've got a thing for turning numbers into stories and making complex problems crumble with the power of programming.
 
-My main interests are Python, Machine Learning and Deep Learning. I am always on the quest for knowledge.
+My main interests are Machine Learning, Deep Learning and Large Language Models. I am always on the quest for knowledge.
 
-## This is where you can reach me 📞
+## You can also find me in Linkedin
 <div>
-<a href = "mailto:guilhermelnovelli@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilhermenovelli" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
