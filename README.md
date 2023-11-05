@@ -2,11 +2,11 @@
 
 Welcome to my space! Let me introduce myself: 
 
-I am Guilherme Novelli, a Data Analyst at CloudWalk, Inc. Formerly graduated as a mechanical engineer, with a strong background in research, I am now enrolled in a graduate specialization in Data Science and Big Data. My journey from fluid mechanics to Python scripts has been quite a ride. I've got a thing for turning numbers into stories and making complex problems crumble with the power of programming.
+I am Guilherme Novelli, Data Analyst at CloudWalk, Inc. Formerly graduated as a mechanical engineer, with a strong background in research, I am now enrolled in a graduate specialization in Data Science and Big Data. My journey from fluid mechanics to Python scripts has been quite a ride. I've got a thing for turning numbers into stories and making complex problems crumble with the power of programming.
 
 My main interests are Machine Learning, Deep Learning and Large Language Models. I am always on the quest for knowledge.
 
-## You can also find me in Linkedin
+## You can also find me on Linkedin
 <div>
 <a href="https://www.linkedin.com/in/guilhermenovelli" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
@@ -21,14 +21,13 @@ These are some of the technologies I am most familiar with:
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
-
+<!--
 ## 📊 My GitHub Stats
-
+<!--
 ![glnovelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=glnovelli&show_icons=true&theme=transparent)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glnovelli&layout=compact)
