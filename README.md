@@ -1,16 +1,15 @@
 # Hi there 💻⚙️
 
-Welcome to my space! Let me introduce myself: 
+Welcome to my space! 
 
-I am Guilherme Novelli, Data Analyst at CloudWalk, Inc. Formerly graduated as a mechanical engineer, with a strong background in research, I am now enrolled in a graduate specialization in Data Science and Big Data. My journey from fluid mechanics to Python scripts has been quite a ride. I've got a thing for turning numbers into stories and making complex problems crumble with the power of programming.
-
-My main interests are Machine Learning, Deep Learning and Large Language Models. I am always on the quest for knowledge.
+I am Guilherme Novelli, Data Analyst at CloudWalk, Inc. I'm graduated as a mechanical engineer, with a strong background in research, and I have completed a postgraduate specialization in Data Science and Big Data. 
 
 ## You can also find me on Linkedin
 <div>
 <a href="https://www.linkedin.com/in/guilhermenovelli" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
+<!--
 ## Technologies 🖥️
 
 These are some of the technologies I am most familiar with:
@@ -25,7 +24,7 @@ These are some of the technologies I am most familiar with:
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
-<!--
+
 ## 📊 My GitHub Stats
 <!--
 ![glnovelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=glnovelli&show_icons=true&theme=transparent)
