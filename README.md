@@ -2,7 +2,7 @@
 
 Welcome to my space! 
 
-I am Guilherme Novelli, Data Analyst at CloudWalk, Inc. I'm graduated as a mechanical engineer, with a strong background in research, and I have completed a postgraduate specialization in Data Science and Big Data. 
+I am Guilherme Novelli,a Data Scientist and Mechanical Engineer.
 
 ## You can also find me on Linkedin
 <div>
