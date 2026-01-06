@@ -2,7 +2,7 @@
 
 Welcome to my space! 
 
-I am Guilherme Novelli,a Data Scientist and Mechanical Engineer.
+I am Guilherme Novelli, a Data Scientist and Mechanical Engineer.
 
 ## You can also find me on Linkedin
 <div>
